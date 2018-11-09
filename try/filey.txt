@@ -1,0 +1,1 @@
+recording1.wav, This is the transcription of the recording., recording1.TextGrid
